@@ -20,11 +20,11 @@ flash debug to web console
 
 ## Installation
 
-`import com.debug.Debugger`
+`import com.debug.Debugger;`
 to class file
 
 instantiate
-`var debug = new Debbugger`
+`var debug = new Debbugger();`
 
 
 ## Usage
